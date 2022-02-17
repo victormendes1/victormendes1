@@ -1,4 +1,4 @@
-### Olá, Eu sou Victor Mendes 👋🏽
+### Olá pessoal! 👋🏽
 
 - 👨🏽‍💻 Atualemnte trabalhando como desenvolvedor iOS.  
 - 📚 Estudando Swift para melhorar minhas habilidades.
