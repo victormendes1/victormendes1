@@ -1,7 +1,7 @@
 ### Olá pessoal! 👋🏽
 
 - 👨🏽‍💻 Atualemnte trabalhando como desenvolvedor iOS.  
-- 📚 Estudando Swift para melhorar minhas habilidades.
+- 📚 Estudando SwiftUI e novas técincas em Swift, para melhorar minhas habilidades.
 ##### Mais informações   
 
 <div align="center">
