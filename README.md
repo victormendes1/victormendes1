@@ -19,8 +19,8 @@
 </p>
 
 <h4 align="left">Information about activities:</h4>
-<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=victormendes1&show_icons=true&theme=dark&locale=en" alt="victormendes1" width="500" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=victormendes1&theme=dark" alt="victormendes1"  width="500"/> </p>
+<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=victormendes1&show_icons=true&theme=dark&locale=en" alt="victormendes1" width="400" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=victormendes1&theme=dark" alt="victormendes1"  width="400"/> </p>
 
 
 <h4 align="left">Experiences with:</h4>
