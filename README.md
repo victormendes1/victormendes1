@@ -6,9 +6,9 @@
 
 - 👨🏽‍💻 I'm currently working at BRQ on the project [Next](https://apps.apple.com/br/app/banco-next-conta-e-cartão/id1133682678)
 
-- 🌱 I’m currently learning **SwiftUI and Combine**
+- 🌱 I’m currently learning **Objective-C**
 
-- 📲 I'm currently developing my personal project [Midnight](https://github.com/victormendes1/Midnight)
+- 📲 I'm currently developing my personal project [InstaRetro](https://github.com/victormendes1/InstaRetro)
 
 - 📫 How to reach me **victor_mendes1@icloud.com**
 
