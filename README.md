@@ -6,7 +6,7 @@
 
 - 👨🏽‍💻 I'm currently working at BRQ on the project [Next](https://apps.apple.com/br/app/banco-next-conta-e-cartão/id1133682678)
 
-- 🌱 I’m currently learning **Objective-C**
+- 🌱 I’m currently learning **Objective-C** and **SwiftUI**
 
 - 📲 I'm currently developing my personal project [InstaRetro](https://github.com/victormendes1/InstaRetro)
 
@@ -19,7 +19,7 @@
 </p>
 
 <h4 align="left">Information about activities:</h4>
-<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=victormendes1&show_icons=true&theme=dark&locale=en" alt="victormendes1" width="400" />
+<p>&nbsp;<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=victormendes1&show_icons=true&theme=dark&locale=en" alt="victormendes1" width="400" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=victormendes1&theme=dark" alt="victormendes1"  width="400"/> </p>
 
 
@@ -41,6 +41,6 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
 </a> </p>
 
- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=victormendes1&show_icons=true&theme=dark&locale=en&layout=compact" alt="victormendes1" />
+ <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=victormendes1&show_icons=true&theme=dark&locale=en&layout=compact" alt="victormendes1" />
 </p>
 <p>
