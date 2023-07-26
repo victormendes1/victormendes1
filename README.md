@@ -1,14 +1,14 @@
 <img src="https://user-images.githubusercontent.com/44198473/210012690-eb0b4e01-956e-481b-9187-b174f43e5141.png"/>
 
 <h2 align="center">Hi 👋🏽, I'm Victor Mendes</h2>
-<h3 align="center">An iOS developer, I have skills in Swift (UIKit), SwiftUI enthusiast and Objective-C student.</h3>
+<h3 align="center">iOS developer with skills in Swift, SwiftUI and Objective-C</h3>
 <img align="right" src="https://user-images.githubusercontent.com/44198473/210014515-3511d1aa-eaa7-4152-8f61-fff30864e7c9.gif" width="350" height="250"/>
 
-- 👨🏽‍💻 I'm currently working at BRQ on the project [Next](https://apps.apple.com/br/app/banco-next-conta-e-cartão/id1133682678)
+- 👨🏽‍💻 I'm currently working at inChurch
 
 - 🌱 I’m currently learning **Objective-C** and **SwiftUI**
 
-- 📲 I'm currently developing my personal project [InstaRetro](https://github.com/victormendes1/InstaRetro)
+<!-- - 📲 I'm currently developing my personal project [InstaRetro](https://github.com/victormendes1/InstaRetro)-->
 
 - 📫 How to reach me **victor_mendes1@icloud.com**
 
